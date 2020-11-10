@@ -1,1 +1,7 @@
 everything is good
+more stuff has been added
+we are cloning
+remote to local
+making same changes
+pushing it back to
+remote repository
